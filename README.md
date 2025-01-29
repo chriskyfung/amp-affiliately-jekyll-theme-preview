@@ -1,1 +1,0 @@
-# amp-affiliately-jekyll-theme-preview
